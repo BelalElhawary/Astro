@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Astro.Cli", "Astro.Cli\Astro.Cli.csproj", "{7AF3BB1D-058A-43A5-92B8-A7AFFA2336E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Astro.Core", "Astro.Core\Astro.Core.csproj", "{43D540B1-6B37-4CCC-9ED1-D554A750AEE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AF3BB1D-058A-43A5-92B8-A7AFFA2336E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AF3BB1D-058A-43A5-92B8-A7AFFA2336E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AF3BB1D-058A-43A5-92B8-A7AFFA2336E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AF3BB1D-058A-43A5-92B8-A7AFFA2336E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43D540B1-6B37-4CCC-9ED1-D554A750AEE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43D540B1-6B37-4CCC-9ED1-D554A750AEE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43D540B1-6B37-4CCC-9ED1-D554A750AEE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43D540B1-6B37-4CCC-9ED1-D554A750AEE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
